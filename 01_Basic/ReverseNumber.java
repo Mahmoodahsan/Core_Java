@@ -1,8 +1,7 @@
 package basic;
-
-class	Reverse{
+class	ReverseNumber{
     public	static	void	main(String	args[]){	
-   int	num	=234;	//	take	argument	as	command	line
+   int	num	=234;
     int	remainder, result=0;	
     while(num>0){	
    remainder	=	num%10;
