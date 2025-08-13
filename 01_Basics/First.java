@@ -1,4 +1,4 @@
-
+package basic;
 class Mahmood
 {
 public static void main(String args[])

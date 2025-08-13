@@ -1,4 +1,4 @@
-package ROUGH;
+package basic;
 
 class	Reverse{
     public	static	void	main(String	args[]){	

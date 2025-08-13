@@ -1,4 +1,4 @@
-package ROUGH;
+package basic;
 import java.util.*;
 public class fis {
     public static void main(String args[]){
