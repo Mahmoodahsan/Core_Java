@@ -14,7 +14,8 @@ public class Third {
 
 	public static void main(String[] args) {
 		// it calls both class constructor because s is object of both class
-		Sub3 s = new Sub3();
+		new Sub3();
+		//if i write >>> Sub3 s = new Sub3();
 		// s.Super3();->error it is method calling style
 	}
 }

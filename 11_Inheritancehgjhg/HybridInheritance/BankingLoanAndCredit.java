@@ -40,7 +40,6 @@ class PremiumAccount extends SavingsAccount implements Loan, CreditCard {
         System.out.println(holderName + " credit card issued.");
     }
 }
-
 public class BankingLoanAndCredit {
     public static void main(String[] args) {
         PremiumAccount acc = new PremiumAccount("David", 20000);
