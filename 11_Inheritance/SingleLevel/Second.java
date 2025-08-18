@@ -25,6 +25,7 @@ class Sub extends Super {
 
 public class Second {
     public static void main(String[] args) {
+        // it calls both class constructor because s is object of both class
         Sub sub = new Sub();
         sub.setDate(100, 200);
         sub.showData();

@@ -11,6 +11,7 @@ class Sub3 extends Super3 {
 }
 
 public class Third {
+
 	public static void main(String[] args) {
 		// it calls both class constructor because s is object of both class
 		Sub3 s = new Sub3();
