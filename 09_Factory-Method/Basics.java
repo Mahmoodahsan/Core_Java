@@ -1,6 +1,5 @@
-		package day1;
 		import java.util.Scanner;
-		public class BASICS{
+		class BASICS{
 		public static void main(String args[]){
 		System.out.println("enter number of object you want to create");
 		Scanner sc = new Scanner(System.in);

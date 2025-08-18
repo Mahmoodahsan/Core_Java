@@ -1,4 +1,3 @@
-package day1;
 class Book{
 	private String title;
 	private String author;
@@ -23,7 +22,6 @@ class Book{
 public class Task_01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
      Book b1=Book.getBookObject();
      System.out.println(b1);
 	}
