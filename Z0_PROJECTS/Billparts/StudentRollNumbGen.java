@@ -1,4 +1,4 @@
-package PROJECTS;
+package Z0_PROJECTS.Billparts;
 import java.util.Date;
 import java.util.Scanner;
 class student{
