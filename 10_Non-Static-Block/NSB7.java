@@ -9,7 +9,7 @@ class Sample
   }
 }
 
-public class NSB5 
+public class NSB7 
 {
     public static void main(String[] args) 
     {

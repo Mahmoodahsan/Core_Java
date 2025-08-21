@@ -1,4 +1,4 @@
-package hatd_parts;
+package CreaditPass;
 
 import java.util.Scanner;
 

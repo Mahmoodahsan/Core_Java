@@ -9,7 +9,7 @@ class Count{
         return count;
     }
         }
-public class Main {
+public class CountKeyElement {
     public static void main(String[] args) {
         int[] arr={2,3,4,5,2,6,3,7,2,2};
         int key=2;

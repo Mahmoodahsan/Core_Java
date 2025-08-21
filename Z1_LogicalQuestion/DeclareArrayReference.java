@@ -26,7 +26,7 @@ class aarray{
         System.out.println("staring array declarrati..: String[]arr=new String[n];");
     }
 }
-public class Main {
+public class DeclareArrayReference {
     public static void main(String[] args) {
         aarray.INTarr();
         aarray.CHARarr();

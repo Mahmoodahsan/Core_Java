@@ -1,4 +1,4 @@
-package DAY_43_Inheritance.EmployeeDetails;
+package DAY43.EmployeeDetails;
 
 public class ParmanentEmployee extends Employee {
 	protected double providedFund=12;

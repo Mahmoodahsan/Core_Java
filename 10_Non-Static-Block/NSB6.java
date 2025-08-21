@@ -14,7 +14,7 @@ class Sample {
    }
    
 }
-public class NSB5 {
+public class NSB6 {
     public static void main(String[] args) {
         new Sample();
         //

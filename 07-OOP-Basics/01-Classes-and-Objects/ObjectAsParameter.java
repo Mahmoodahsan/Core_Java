@@ -1,12 +1,12 @@
-class ObjectAsParameter {
+class Main5 {
     String name;
 }
-public class Main5 {
-    public static void display(ObjectAsParameter p) {
+public class ObjectAsParameter {
+    public static void display(Main5 p) {
         System.out.println("Name: " + p.name);
     }
     public static void main(String[] args) {
-        ObjectAsParameter p = new ObjectAsParameter();
+        Main5 p = new Main5();
         p.name = "Mahmood";
         display(p);
     }

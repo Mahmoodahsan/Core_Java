@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class CheckGivenNuberPresntOrNot {
     static int[] frequency(int[] arr) {
         int[] freq = new int[100001];
         for (int i = 0; i < arr.length; i++) {
@@ -22,6 +22,6 @@ public class Main {
             } else System.out.println("No");
             q--;
         }
-
+  sc.close();
     }
 }

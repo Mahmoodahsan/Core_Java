@@ -8,7 +8,7 @@ class Second {
 }
 public class NSB2 {
     public static void main(String[] args) {
-        Second second = new Second();//1
+        new Second();//1
         System.out.println("Main method executed");//4
     }
 }

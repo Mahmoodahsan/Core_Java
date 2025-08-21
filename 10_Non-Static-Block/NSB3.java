@@ -12,7 +12,7 @@ class Third {
 }
 public class NSB3 {
     public static void main(String[] args) {
-        Third third = new Third();//1
+        new Third();//1
         System.out.println("Main method executed");//5
     }
 }
