@@ -1,4 +1,4 @@
-class TargetSum{
+class TarSum{
     static int Sum(int[] arr,int target){
         int ans=0;
         for(int i=0;i<arr.length;i++){
@@ -11,11 +11,11 @@ class TargetSum{
         return ans;
     }
 }
-public class Main {
+public class TargetSum {
     public static void main(String[] args) {
         int[] arr={4,2,3,5,4,3};
         int target_sum=7;
-       int Answer= TargetSum.Sum(arr,target_sum);
+       int Answer= TarSum.Sum(arr,target_sum);
         System.out.println(Answer);
     }
 }

@@ -1,4 +1,4 @@
-public class Numb {
+class Numb {
     void num(int n){
         //base condition
         if(n==1){
@@ -12,7 +12,7 @@ public class Numb {
         num(n-1);
     }
 }
-public class Main {
+public class DecreaseRecursive {
     public static void main(String[] args) {
         Numb ob=new Numb();
         ob.num(10);

@@ -28,6 +28,6 @@ public class Main {
                 System.out.print("sum between"+l+" and"+r+"is:");
                 System.out.println(SumOfRange.Range(n, arr,l,r));
             }
-
+   sc.close();
     }
 }

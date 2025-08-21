@@ -10,7 +10,7 @@ class Repeated{
     return 0;
     }
 }
-public class Main {
+public class FindFirstTwoRepeatDigit {
     public static void main(String[] args) {
         int[] arr={1,5,3,4,6,3,4};
         System.out.println(Repeated.Find(arr));

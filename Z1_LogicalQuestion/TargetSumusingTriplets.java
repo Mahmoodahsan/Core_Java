@@ -1,4 +1,4 @@
-public class Main {
+public class TargetSumusingTriplets {
     public static void main(String[] args) {
         //int[] arr={1,4,5,6,3};
         int[] arr={4,3,4,4,4};

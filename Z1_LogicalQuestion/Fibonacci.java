@@ -1,4 +1,4 @@
-public class Fibonacci{
+class Fib{
     int fib(int n){
         if (n==0){
             return 0;
@@ -9,9 +9,9 @@ public class Fibonacci{
       return fib(n-1)+fib(n-2);
     }
 }
-public class Main {
+public class Fibonacci {
     public static void main(String[] args) {
-     Fibonacci fb=new Fibonacci();
+     Fib fb=new Fib();
         System.out.println(fb.fib(10));
     }
 }

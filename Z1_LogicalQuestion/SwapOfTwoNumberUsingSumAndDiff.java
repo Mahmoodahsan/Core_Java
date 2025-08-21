@@ -1,4 +1,4 @@
-public class Main {
+public class SwapOfTwoNumberUsingSumAndDiff {
     public static void main(String[] args) {
         int a=5;
         int b=7;

@@ -1,20 +1,20 @@
-public class Factorial {
+ class Fact {
     int fact(int f){
-        int factorial=1;
+        int Fact=1;
         //base condition
         if(f==1 || f==0){
 //            System.out.println(1);
             return 1;
         }
         //recursive work
-        factorial=f*fact(f-1);
+        Fact=f*fact(f-1);
         //final work
-       return factorial;
+       return Fact;
     }
 }
-public class Main {
+public class Factorial {
     public static void main(String[] args) {
-       Factorial ob= new Factorial();
+       Fact ob= new Fact();
         System.out.println( ob.fact(5));
     }
 }

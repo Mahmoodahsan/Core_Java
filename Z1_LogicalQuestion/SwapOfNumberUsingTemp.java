@@ -6,7 +6,7 @@ class Swap{
         System.out.println(a+" "+b);
     }
 }
-public class Main {
+public class SwapOfNumberUsingTemp {
     public static void main(String[] args) {
        int a=5;
        int b=7;

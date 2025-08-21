@@ -6,7 +6,7 @@
         return n+sum(n-1);
     }
 }
-public class Main {
+public class SumUsingRecursion {
     public static void main(String[] args) {
         Sum ob=new Sum();
         System.out.println(ob.sum(10));
