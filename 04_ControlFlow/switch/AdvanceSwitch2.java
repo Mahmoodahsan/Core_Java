@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class AdvanceSwitch2 {
 	public static void main(String[] args) {
 //  type 2 with yield
